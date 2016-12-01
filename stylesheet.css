@@ -7,8 +7,10 @@ body {
 }
 
 .certification_logos {
-  background-color:green;
-  height:10%;
-  width:15%;
+  background-color:lightgreen;
+  height:100px;
+  width:25%;
+  margin:2%;
+  display:inline-block;
 
 }
