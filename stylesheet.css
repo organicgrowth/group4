@@ -4,7 +4,161 @@ body {
 }
 
 #certification_tree {
+  background-color: lightgreen;
+  width:500px;
+  height: 500px;
+  margin:auto;
+  border-radius: 100%;
 }
+
+#anglamark{
+  height: 70px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#bdih{
+  height: 70px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+
+}
+
+#blaangeln{
+  height: 80px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#bramiljoval{
+  height: 80px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#demeter{
+  height: 70px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#eu_ekologiskt{
+  height: 70px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#eublomma{
+  height: 100px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#fairtrade{
+  height: 100px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#krav{
+  height: 110px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#msc{
+  height: 100px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#natrue{
+  height: 70px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#nyckel{
+  height: 70px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#ra{
+  height: 100px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#sadesaxet{
+  height: 70px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#soil{
+  height: 80px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#svanen{
+  height: 90px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#svenskt_kott{
+  height: 80px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#svensktsigill{
+  height: 100px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#treklovern{
+  height: 80px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#usda{
+  height: 70px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
+#vegansociety{
+  height: 80px;
+  display: inline-block;
+  text-align: center;
+  padding:5px;
+}
+
 
 .certification_logos {
   background-color:lightgreen;
@@ -12,5 +166,4 @@ body {
   width:25%;
   margin:2%;
   display:inline-block;
-
 }
