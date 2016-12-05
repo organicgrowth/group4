@@ -11,6 +11,7 @@ body {
   margin-top: -8px;
   margin-left: -9px;
   position:fixed;
+  font-family: Lato, serif;
 }
 
 #site_logo{
@@ -19,6 +20,7 @@ body {
   font-size: 25px;
   color:green;
   font: helvetica;
+  font-family: Lato, serif;
 }
 
 #about_us {
@@ -33,9 +35,10 @@ body {
   margin-top: 8px;
   text-align: center;
   padding-top:10px;
+  font-family: Lato, serif;
 }
 
-#certifieringar{
+#certifieringar {
   height:50%;
   width:130px;
   font-size:80%;
@@ -43,6 +46,7 @@ body {
   margin-top: 8px;
   text-align: center;
   padding-top:10px;
+  font-family: Lato, serif;
 }
 
 #certifieringar:hover {
@@ -72,6 +76,7 @@ body {
   float:right;
   margin-top: -670px;
   margin-right:-300px;
+  font-family: Lato, serif;
 }
 
 #anglamark{
