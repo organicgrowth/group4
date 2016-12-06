@@ -234,3 +234,61 @@ body {
   margin:2.3%;
   display:inline-block;
 }
+
+
+/* Pages CSS */
+
+#rubrik {
+  text-align: center;
+  padding-left:25px;
+  font-size: 25px;
+  color:green;
+  font-family: Lato, serif;
+
+}
+
+img #krav {
+  text-align: center;
+  /* Hjälp här hehe, få in bilden i mitten och göra den större */
+}
+
+#infotext {
+  text-align: center;
+  padding-left:25px;
+  font-size: 25px;
+  color:green;
+  font-family: Lato, serif;
+}
+
+#rankning {
+  float: left;
+  padding-left:25px;
+  font-size: 25px;
+  color:green;
+  font-family: Lato, serif;
+
+}
+
+#categories {
+  float: right;
+  padding-left:25px;
+  font-size: 25px;
+  color:green;
+  font-family: Lato, serif;
+}
+
+#backbutton {
+  text-align: center;
+  padding-left:25px;
+  font-size: 25px;
+  color:green;
+  font-family: Lato, serif;
+  background-color: green; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
