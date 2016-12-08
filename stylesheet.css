@@ -31,7 +31,7 @@ body {
   font-size:80%;
   float:right;
   margin-left: 7px;
-  margin-right: 20px;
+  margin-right: 45px;
   margin-top: 8px;
   text-align: center;
   padding-top:10px;
@@ -57,182 +57,243 @@ body {
   width:500px;
   height: 500px;
   margin:auto;
-  padding-top: 120px;
+  text-align: center;
+  padding-top: 150px;
   padding-bottom: 100px;
-  padding-right:100px;
+  padding-right: 220px;
 }
 
 #tree {
-  height:600px;
-  margin-top: -410px;
+  height:700px;
+  margin-top: -400px;
   z-index: -1;
+  margin-left: -50px;
   position:relative;
 }
 
 #short_text{
-  height:300px;
+  height:200px;
   width:200px;
   display: inline-block;
   float:right;
-  margin-top: -670px;
-  margin-right:-300px;
   font-family: Lato, serif;
+  margin-top: -250px;
+  margin-right: 300px;
+
 }
 
+#alla_symboler{
+  background-color: green;
+  color:white;
+  height:30px;
+  width:150px;
+  font-size:80%;
+  text-align: center;
+  padding-top:10px;
+  font-family: Lato, serif;
+  margin-top: -130px;
+  margin-right: 350px;
+  float:right;
+}
+
+#space{
+  width:100%;
+  height:150px;
+}
+
+
 #anglamark{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #bdih{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 
 }
 
 #blaangeln{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #bramiljoval{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #demeter{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #eu_ekologiskt{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #eublomma{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #fairtrade{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #krav{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #msc{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #natrue{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #nyckel{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #ra{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #sadesaxet{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #soil{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #svanen{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #svenskt_kott{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #svensktsigill{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #treklovern{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #usda{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 #vegansociety{
-  height: 80px;
+  height: 70px;
   display: inline-block;
   text-align: center;
   padding:5px;
+  padding-left: 0px;
 }
 
 .certification_logos {
-  background-color:lightgreen;
+  background-color:white;
   height:150px;
   width:15%;
   margin:2.3%;
   display:inline-block;
+  font-family: Lato, serif;
+  text-align: center;
+}
+
+.small_logo{
+  height:90px;
+  margin:auto;
+  display:block;
+  margin-bottom: 10px;
+}
+
+#footer{
+  background-color: lightgreen;
+  width:110%;
+  height:300px;
+  margin-left: -9px;
+  margin-bottom: -100px;
 }
 
 
@@ -283,7 +344,7 @@ img #krav {
   font-size: 25px;
   color:green;
   font-family: Lato, serif;
-  background-color: green; 
+  background-color: green;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -291,4 +352,3 @@ img #krav {
   text-decoration: none;
   display: inline-block;
 }
-
