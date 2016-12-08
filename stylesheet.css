@@ -38,7 +38,7 @@ body {
   font-family: Lato, serif;
 }
 
-#certifieringar {
+#compare_button {
   height:50%;
   width:130px;
   font-size:80%;
@@ -49,7 +49,7 @@ body {
   font-family: Lato, serif;
 }
 
-#certifieringar:hover {
+#compare_button:hover {
   box-shadow: 0px 0.1px 3px black;
 }
 
@@ -288,6 +288,14 @@ body {
   margin-bottom: 10px;
 }
 
+.rankning_bild_index {
+  height:25px;
+  margin:auto;
+  display:block;
+  margin-top:5px;
+}
+
+
 #footer{
   background-color: lightgreen;
   width:102%;
@@ -307,7 +315,6 @@ body {
   font-size: 25px;
   color:green;
   font-family: Lato, serif;
-
 }
 
 
@@ -315,14 +322,20 @@ body {
   text-align: center;
   padding-left:25px;
   font-size: 25px;
-  color:green;
+  color:black;
   font-family: Lato, serif;
   margin-top:30px;
 }
 
+.infotext_div{
+  width:800px;
+  margin: auto;
+
+}
+
 #rankning {
   float:left;
-  margin-left: 100px;
+  margin-left: 200px;
   padding-left:25px;
   font-size: 25px;
   color:green;
@@ -331,7 +344,7 @@ body {
 
 #moqups {
   float:right;
-  margin-right: 100px;
+  margin-right: 200px;
   padding-left:25px;
   font-size: 25px;
   color:green;
@@ -352,6 +365,10 @@ body {
   margin-bottom: 60px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .big_logo{
   height:400px;
   margin-top:80px;
@@ -360,4 +377,37 @@ body {
 .big_logo_div{
   width:100%;
   text-align: center;
+}
+
+.rankning_bild{
+  height:60px;
+  float:left;
+  margin-left:-100px;
+  display:block;
+  margin-top:70px;
+}
+
+.rankning_bild_jamfor{
+  height:60px;
+  float:left;
+  margin-left:-100px;
+  display:block;
+  margin-top:70px;
+  margin:3.4%;
+}
+
+.products{
+  height:50px;
+  float:right;
+  margin:5px;
+  display:block;
+}
+
+.product_container{
+  width:400px;
+  height:60px;
+  float:right;
+  padding-top:80px;
+  margin-right: -120px;
+
 }
