@@ -290,7 +290,7 @@ body {
 
 #footer{
   background-color: lightgreen;
-  width:110%;
+  width:102%;
   height:300px;
   margin-left: -9px;
   margin-bottom: -100px;
@@ -298,6 +298,8 @@ body {
 
 
 /* Pages CSS */
+
+
 
 #rubrik {
   text-align: center;
@@ -308,10 +310,6 @@ body {
 
 }
 
-img #krav {
-  text-align: center;
-  /* Hjälp här hehe, få in bilden i mitten och göra den större */
-}
 
 #infotext {
   text-align: center;
@@ -319,19 +317,21 @@ img #krav {
   font-size: 25px;
   color:green;
   font-family: Lato, serif;
+  margin-top:30px;
 }
 
 #rankning {
-  float: left;
+  float:left;
+  margin-left: 100px;
   padding-left:25px;
   font-size: 25px;
   color:green;
   font-family: Lato, serif;
-
 }
 
-#categories {
-  float: right;
+#moqups {
+  float:right;
+  margin-right: 100px;
   padding-left:25px;
   font-size: 25px;
   color:green;
@@ -339,16 +339,25 @@ img #krav {
 }
 
 #backbutton {
-  text-align: center;
-  padding-left:25px;
+  height:30px;
+  width:200px;
   font-size: 25px;
   color:green;
   font-family: Lato, serif;
   background-color: green;
-  border: none;
   color: white;
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
-  display: inline-block;
+  margin:auto;
+  margin-bottom: 60px;
+}
+
+.big_logo{
+  height:400px;
+  margin-top:80px;
+}
+
+.big_logo_div{
+  width:100%;
+  text-align: center;
 }
