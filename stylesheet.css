@@ -3,8 +3,9 @@ body {
 
 }
 
+
 #header{
-  background-color: white;
+  background-color: #cceaae;
   box-shadow: 0px 1px 5px black;
   height:60px;
   width:102%;
@@ -366,6 +367,7 @@ body {
 }
 
 a {
+  color:black;
   text-decoration: none;
 }
 
