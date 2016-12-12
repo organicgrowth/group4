@@ -17,15 +17,15 @@ body {
 
 #site_logo{
   float:left;
-  height:70px;
-  width:170px;
-  padding-left: 20px;
+  height:52px;
+  padding-left: 30px;
+  margin-top: 10px;
 }
 
 #about_us {
   background-color: green;
   color:white;
-  height:50%;
+  height:45%;
   width:130px;
   font-size:80%;
   float:right;
@@ -33,18 +33,19 @@ body {
   margin-right: 45px;
   margin-top: 12px;
   text-align: center;
-  padding-top:10px;
+  padding-top:15px;
   font-family: Lato, serif;
 }
 
 #compare_button {
-  height:50%;
-  width:130px;
+  height:45%;
+  width:140px;
   font-size:80%;
   float:right;
   margin-top: 12px;
   text-align: center;
-  padding-top:10px;
+  margin-right:10px;
+  padding-top:15px;
   font-family: Lato, serif;
 }
 
@@ -268,6 +269,13 @@ body {
   text-align: center;
   padding:5px;
   padding-left: 0px;
+}
+
+
+
+#trad {
+  height:400px;
+  text-align: center;
 }
 
 .certification_logos {
