@@ -7,7 +7,7 @@ body {
 #header{
   background-color: #cceaae;
   box-shadow: 0px 1px 5px black;
-  height:60px;
+  height:80px;
   width:102%;
   margin-top: -8px;
   margin-left: -9px;
@@ -17,11 +17,9 @@ body {
 
 #site_logo{
   float:left;
-  padding-left:25px;
-  font-size: 25px;
-  color:green;
-  font: helvetica;
-  font-family: Lato, serif;
+  height:80px;
+  width:170px;
+  padding-left: 20px;
 }
 
 #about_us {
