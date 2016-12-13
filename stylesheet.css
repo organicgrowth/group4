@@ -328,3 +328,48 @@ a {
 #artikeltext1 h4{
   text-align: center;
 }
+
+#artikeltext2{
+  font-family: Lato, serif;
+  width:47%;
+  text-align: left;
+  padding: 15px 32px;
+  margin:auto;
+  line-height: 200%;
+}
+
+#artikeltext2 h1{
+  text-align: center;
+}
+
+
+#artikeltext3{
+  font-family: Lato, serif;
+  width:47%;
+  text-align: left;
+  padding: 15px 32px;
+  margin:auto;
+  line-height: 200%;
+}
+
+
+#artikeltext3 h1{
+  text-align: center;
+}
+
+
+#artikeltext3 h2{
+  text-align: center;
+}
+
+
+#gryningen{
+margin: auto;
+text-align: center;
+}
+
+
+#cajsa{
+  margin: auto;
+  text-align: center;
+}
