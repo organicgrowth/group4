@@ -101,22 +101,25 @@ body {
 
 
 #trad {
+  margin-top: -70px;
+  margin-bottom: 30px;
   height:400px;
   text-align: center;
 }
 
 .certification_logos {
   background-color:white;
-  height:150px;
-  width:15%;
+  height:160px;
+  width:20%;
   margin:2.3%;
+  padding-bottom:60px;
   display:inline-block;
   font-family: Lato, serif;
   text-align: center;
 }
 
 .small_logo{
-  height:90px;
+  height:92%;
   margin:auto;
   display:block;
   margin-bottom: 10px;
@@ -210,7 +213,7 @@ body {
 
 #moqups {
   float:right;
-  margin-right: 200px;
+  margin-right: 25%;
   padding-left:25px;
   font-size: 25px;
   color:green;
