@@ -72,205 +72,32 @@ body {
 }
 
 #short_text{
-  height:200px;
-  width:200px;
+  padding-top: 120px;
+  width:100%;
   display: inline-block;
-  float:right;
   font-family: Lato, serif;
-  margin-top: -250px;
-  margin-right: 300px;
-
 }
 
-#scroll_down{
-  background-color: green;
-  color:white;
-  height:30px;
-  width:150px;
-  font-size:80%;
+#headline_h1{
   text-align: center;
-  padding-top:10px;
-  font-family: Lato, serif;
-  margin-top: -130px;
-  margin-right: 350px;
-  float:right;
+  margin:auto;
+  height:100px;
+  width:900px;
 }
+
+#headline_h2{
+  text-align: center;
+  margin:auto;
+  height:100px;
+  width:900px;
+  margin-top: -45px;
+}
+
 
 #space{
   width:100%;
   height:150px;
 }
-
-
-#anglamark{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#bdih{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-
-}
-
-#blaangeln{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#bramiljoval{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#demeter{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#eu_ekologiskt{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#eublomma{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#fairtrade{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#krav{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#msc{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#natrue{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#nyckel{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#ra{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#sadesaxet{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#soil{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#svanen{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#svenskt_kott{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#svensktsigill{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#treklovern{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#usda{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
-#vegansociety{
-  height: 70px;
-  display: inline-block;
-  text-align: center;
-  padding:5px;
-  padding-left: 0px;
-}
-
 
 
 #trad {
