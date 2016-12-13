@@ -22,7 +22,7 @@ body {
 }
 
 #about_us {
-  background-color: green;
+  background-color: #008000;
   color:white;
   height:45%;
   width:130px;
@@ -52,14 +52,13 @@ body {
   box-shadow: 0px 0.1px 3px black;
 }
 
-#certification_tree {
-  width:500px;
-  height: 500px;
-  margin:auto;
+#betyg_rubrik {
   text-align: center;
-  padding-top: 150px;
-  padding-bottom: 100px;
-  padding-right: 220px;
+  font-size: 60px;
+  color:green;
+  font-family: Lato, serif;
+  margin-bottom: -50px;
+  margin-top: -30px;
 }
 
 #tree {
@@ -95,12 +94,12 @@ body {
 
 #space{
   width:100%;
-  height:300px;
+  height:150px;
 }
 
 
 #trad {
-  margin-top: -70px;
+  margin-top: -100px;
   margin-bottom: 30px;
   height:400px;
   text-align: center;
@@ -179,7 +178,6 @@ body {
 
 #rubrik {
   text-align: center;
-  padding-left:25px;
   font-size: 25px;
   color:green;
   font-family: Lato, serif;
@@ -269,15 +267,48 @@ a {
   text-align: center;
 }
 
+#headline_betyg{
+  text-align: center;
+  margin:auto;
+  height:100px;
+  width:70%;
+  text-align: center;
+  font-size: 25px;
+  padding-bottom: 30px;
+}
+
 .rankning_bild_jamfor{
   height:60px;
   float:left;
-  margin-left:-100px;
   display:block;
   margin-top:70px;
   margin:3.4%;
 }
 
+.leaf_div{
+  width:70%;
+  height:100px;
+  display:block;
+  margin:auto;
+  margin-top:30px;
+  margin-bottom: 30px;
+  font-family: Lato, serif;
+}
+
+.leaf_div p {
+  text-align: center;
+  font-size: 19px;
+  padding-top:45px;
+  padding-left: 50px;
+  text-align: right;
+}
+
+
+#scroll-top {
+  height:40px;
+  text-align: center;
+  margin-bottom: 20px;
+}
 
 /* Artiklar CSS */
 

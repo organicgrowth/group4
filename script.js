@@ -2,9 +2,9 @@
 
 $(document).ready(function(){
 
-  $("#scroll_down").click(function() {
+  $("#scroll-top").click(function() {
       $('html, body').animate({
-          scrollTop: $("#space").offset().top
+          scrollTop: $("#short_text").offset().top
         }, 2000);
       });
 
