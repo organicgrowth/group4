@@ -310,6 +310,37 @@ a {
 }
 
 /* Artiklar CSS */
+#artiklar{
+  font-family: Lato, serif;
+  text-align: center;
+
+}
+
+#kraveko{
+  display: inline-block;
+  width: 20%;
+}
+
+#vegkaka{
+  display: inline-block;
+  width: 20%;
+}
+
+#ekobutik{
+  display: inline-block;
+  width: 20%;
+}
+
+#pokebowl{
+  display: inline-block;
+  width: 20%;
+}
+
+#present{
+  display: inline-block;
+  width: 20%;
+}
+
 
 #artikeltext1{
   font-family: Lato, serif;
