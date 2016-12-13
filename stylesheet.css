@@ -271,7 +271,7 @@ a {
   text-align: center;
   margin:auto;
   height:100px;
-  width:70%;
+  width:55%;
   text-align: center;
   font-size: 25px;
   padding-bottom: 30px;
@@ -296,10 +296,9 @@ a {
 }
 
 .leaf_div p {
-  text-align: center;
   font-size: 19px;
   padding-top:45px;
-  padding-left: 50px;
+  padding-left: 300px;
   text-align: right;
 }
 
