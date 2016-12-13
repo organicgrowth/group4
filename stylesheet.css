@@ -373,3 +373,35 @@ text-align: center;
   margin: auto;
   text-align: center;
 }
+
+#artikeltext4{
+  font-family: Lato, serif;
+  width:47%;
+  text-align: left;
+  padding: 15px 32px;
+  margin:auto;
+  line-height: 200%;
+}
+
+
+#artikeltext4 h1{
+  text-align: center;
+}
+
+#artikeltext5{
+  font-family: Lato, serif;
+  width:47%;
+  text-align: left;
+  padding: 15px 32px;
+  margin:auto;
+  line-height: 200%;
+}
+
+
+#artikeltext5 h1{
+  text-align: center;
+}
+
+#artikeltext5 h3{
+  text-align: center;
+}
