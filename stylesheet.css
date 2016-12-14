@@ -309,6 +309,56 @@ a {
   margin-bottom: 20px;
 }
 
+#om{
+  font-family: Lato, serif;
+  text-align: center;
+}
+
+#om h1{
+  padding-top: 100px;
+}
+
+#om h2{
+  margin-top: 50px;
+}
+
+#om h3{
+  margin-top: 50px;
+}
+
+#louise{
+  display: inline-block;
+  width: 25%;
+}
+
+#loucmane{
+  display: inline-block;
+  width: 25%;
+}
+
+#enny{
+  display: inline-block;
+  width: 25%;
+}
+
+#amanda{
+  margin-top:2%;
+  display: inline-block;
+  width: 25%;
+}
+
+#bilal{
+  margin-top:2%;
+  display: inline-block;
+  width: 25%;
+}
+
+#micke{
+  margin-top:2%;
+  display: inline-block;
+  width: 25%;
+}
+
 /* Artiklar CSS */
 #artiklar{
   font-family: Lato, serif;
