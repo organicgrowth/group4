@@ -488,8 +488,33 @@ text-align: center;
 
 /* HÄR JOBBAR ENNY */
 
-@media only screen and (max-width: 500px) {
-    body {
-        background-color: lightblue;
+@media only screen and (max-width: 1000px) {
+    #header {
+        height:180px;
+    }
+
+    #short_text {
+      margin-top: 100px;
+    }
+
+    #site_logo{
+      height:100px;
+      margin-top:35px;
+    }
+
+    #about_us{
+      height:45%;
+      width:200px;
+      font-size: 180%;
+      padding-top: 40px;
+      margin-top: 30px;
+    }
+
+    #compare_button{
+      height:45%;
+      width:200px;
+      font-size: 180%;
+      padding-top: 40px;
+      margin-top: 30px;
     }
 }
