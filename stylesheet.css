@@ -11,7 +11,7 @@ body {
   margin-top: -8px;
   margin-left: -9px;
   position:fixed;
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
 }
 
 #site_logo{
@@ -33,7 +33,7 @@ body {
   margin-top: 12px;
   text-align: center;
   padding-top:15px;
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
 }
 
 #compare_button {
@@ -45,7 +45,7 @@ body {
   text-align: center;
   margin-right:10px;
   padding-top:15px;
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
 }
 
 #compare_button:hover {
@@ -73,7 +73,7 @@ body {
   padding-top: 120px;
   width:100%;
   display: inline-block;
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
 }
 
 #headline_h1{
@@ -112,7 +112,7 @@ body {
   margin:2.3%;
   padding-bottom:60px;
   display:inline-block;
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
   text-align: center;
 }
 
@@ -166,7 +166,7 @@ body {
 
 
 .HI{
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
   text-align: center;
   padding-top: 80px;
 }
@@ -180,7 +180,7 @@ body {
   text-align: center;
   font-size: 25px;
   color:green;
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
 }
 
 
@@ -188,7 +188,7 @@ body {
   text-align: center;
   font-size: 25px;
   color:black;
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
   margin-top:30px;
 }
 
@@ -207,14 +207,14 @@ body {
   float:left;
   font-size: 25px;
   color:green;
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
 }
 
 #moqups {
   float:right;
   font-size: 25px;
   color:green;
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
 }
 
 .rankning_bild{
@@ -292,7 +292,7 @@ a {
   margin:auto;
   margin-top:30px;
   margin-bottom: 30px;
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
 }
 
 .leaf_div p {
@@ -310,7 +310,7 @@ a {
 }
 
 #om{
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
   text-align: center;
 }
 
@@ -361,7 +361,7 @@ a {
 
 /* Artiklar CSS */
 #artiklar{
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
   text-align: center;
 
 }
@@ -393,7 +393,7 @@ a {
 
 
 #artikeltext1{
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
   width:47%;
   text-align: left;
   padding: 15px 32px;
@@ -410,7 +410,7 @@ a {
 }
 
 #artikeltext2{
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
   width:47%;
   text-align: left;
   padding: 15px 32px;
@@ -424,7 +424,7 @@ a {
 
 
 #artikeltext3{
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
   width:47%;
   text-align: left;
   padding: 15px 32px;
@@ -455,7 +455,7 @@ text-align: center;
 }
 
 #artikeltext4{
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
   width:47%;
   text-align: left;
   padding: 15px 32px;
@@ -469,7 +469,7 @@ text-align: center;
 }
 
 #artikeltext5{
-  font-family: Lato, serif;
+  font-family: 'Josefin Slab', serif;
   width:47%;
   text-align: left;
   padding: 15px 32px;
