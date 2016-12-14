@@ -485,3 +485,11 @@ text-align: center;
 #artikeltext5 h3{
   text-align: center;
 }
+
+/* HÄR JOBBAR ENNY */
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: lightblue;
+    }
+}
