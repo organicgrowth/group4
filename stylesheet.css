@@ -11,12 +11,8 @@ body {
   margin-top: -8px;
   margin-left: -9px;
   position:fixed;
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin italic;
->>>>>>> Stashed changes
 }
 
 #site_logo{
@@ -38,12 +34,8 @@ body {
   margin-top: 12px;
   text-align: center;
   padding-top:15px;
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin italic;
->>>>>>> Stashed changes
 }
 
 #compare_button {
@@ -55,12 +47,8 @@ body {
   text-align: center;
   margin-right:10px;
   padding-top:15px;
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin italic;
->>>>>>> Stashed changes
 }
 
 #compare_button:hover {
@@ -89,12 +77,8 @@ body {
   padding-top: 120px;
   width:100%;
   display: inline-block;
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
->>>>>>> Stashed changes
 }
 
 #headline_h1{
@@ -133,12 +117,8 @@ body {
   margin:2.3%;
   padding-bottom:60px;
   display:inline-block;
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin italic;
->>>>>>> Stashed changes
   text-align: center;
 }
 
@@ -194,12 +174,8 @@ body {
 
 
 .HI{
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin italic;
->>>>>>> Stashed changes
   text-align: center;
   padding-top: 80px;
 }
@@ -213,12 +189,8 @@ body {
   text-align: center;
   font-size: 25px;
   color:green;
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
->>>>>>> Stashed changes
 }
 
 
@@ -226,12 +198,8 @@ body {
   text-align: center;
   font-size: 25px;
   color:black;
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
->>>>>>> Stashed changes
   margin-top:30px;
 }
 
@@ -250,24 +218,16 @@ body {
   float:left;
   font-size: 25px;
   color:green;
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
->>>>>>> Stashed changes
 }
 
 #moqups {
   float:right;
   font-size: 25px;
   color:green;
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
->>>>>>> Stashed changes
 }
 
 .rankning_bild{
@@ -346,12 +306,8 @@ a {
   margin:auto;
   margin-top:30px;
   margin-bottom: 30px;
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
->>>>>>> Stashed changes
 }
 
 .leaf_div p {
@@ -369,12 +325,8 @@ a {
 }
 
 #om{
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
->>>>>>> Stashed changes
   text-align: center;
 }
 
@@ -425,12 +377,8 @@ a {
 
 /* Artiklar CSS */
 #artiklar{
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
->>>>>>> Stashed changes
   text-align: center;
 
 }
@@ -462,12 +410,8 @@ a {
 
 
 #artikeltext1{
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
->>>>>>> Stashed changes
   width:47%;
   text-align: left;
   padding: 15px 32px;
@@ -484,12 +428,8 @@ a {
 }
 
 #artikeltext2{
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
->>>>>>> Stashed changes
   width:47%;
   text-align: left;
   padding: 15px 32px;
@@ -503,12 +443,8 @@ a {
 
 
 #artikeltext3{
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
->>>>>>> Stashed changes
   width:47%;
   text-align: left;
   padding: 15px 32px;
@@ -539,12 +475,8 @@ text-align: center;
 }
 
 #artikeltext4{
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
->>>>>>> Stashed changes
   width:47%;
   text-align: left;
   padding: 15px 32px;
@@ -558,12 +490,8 @@ text-align: center;
 }
 
 #artikeltext5{
-<<<<<<< Updated upstream
-  font-family: 'Josefin Slab', serif;
-=======
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
->>>>>>> Stashed changes
   width:47%;
   text-align: left;
   padding: 15px 32px;
