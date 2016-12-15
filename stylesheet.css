@@ -341,6 +341,7 @@ a {
 }
 
 #om{
+  padding-top:50px;
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
   text-align: center;
@@ -528,7 +529,7 @@ text-align: center;
 
 @media only screen and (max-width: 1000px) {
     #header {
-        height:180px;
+        height:160px;
     }
 
     #short_text {
@@ -541,18 +542,22 @@ text-align: center;
     }
 
     #about_us{
-      height:45%;
-      width:200px;
+      height:40%;
+      width:180px;
       font-size: 180%;
       padding-top: 40px;
       margin-top: 30px;
     }
 
     #compare_button{
-      height:45%;
-      width:200px;
+      height:40%;
+      width:180px;
       font-size: 180%;
       padding-top: 40px;
       margin-top: 30px;
+    }
+
+    .big_logo{
+      margin-top:220px;
     }
 }
