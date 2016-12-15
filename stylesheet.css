@@ -11,7 +11,8 @@ body {
   margin-top: -8px;
   margin-left: -9px;
   position:fixed;
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+
 }
 
 #site_logo{
@@ -33,7 +34,8 @@ body {
   margin-top: 12px;
   text-align: center;
   padding-top:15px;
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: light;
 }
 
 #compare_button {
@@ -45,7 +47,8 @@ body {
   text-align: center;
   margin-right:10px;
   padding-top:15px;
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin italic;
 }
 
 #compare_button:hover {
@@ -56,7 +59,8 @@ body {
   text-align: center;
   font-size: 60px;
   color:green;
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin italic;
   margin-bottom: -50px;
   margin-top: -30px;
 }
@@ -73,7 +77,9 @@ body {
   padding-top: 120px;
   width:100%;
   display: inline-block;
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
+  font-weight: 100;
 }
 
 #headline_h1{
@@ -112,8 +118,15 @@ body {
   margin:2.3%;
   padding-bottom:60px;
   display:inline-block;
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
   text-align: center;
+}
+
+.certification_logos:hover {
+
+  text-decoration: underline;
+
 }
 
 .small_logo{
@@ -140,7 +153,8 @@ body {
 }
 
 .placeholder{
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin italic;
   text-align: center;
   padding-top: 10px;
   text-decoration: underline;
@@ -148,7 +162,8 @@ body {
 
 
 .uppgifter{
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
   display: inline-block;
   text-align: center;
   width: 100%;
@@ -166,7 +181,8 @@ body {
 
 
 .HI{
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 100;
   text-align: center;
   padding-top: 80px;
 }
@@ -180,7 +196,8 @@ body {
   text-align: center;
   font-size: 25px;
   color:green;
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
 }
 
 
@@ -188,7 +205,8 @@ body {
   text-align: center;
   font-size: 25px;
   color:black;
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
   margin-top:30px;
 }
 
@@ -207,21 +225,32 @@ body {
   float:left;
   font-size: 25px;
   color:green;
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
 }
 
 #moqups {
   float:right;
   font-size: 25px;
   color:green;
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
+}
+
+#left-rank {
+  float:left;
+  padding-top: 70px;
+  display:inline-block;
+}
+
+#right-rank {
+  float:right;
+  padding-top: 70px;
+  display:inline-block;
 }
 
 .rankning_bild{
   height:60px;
-  float:left;
-  padding-top: 70px;
-  display:inline;
 }
 
 .products{
@@ -230,11 +259,10 @@ body {
 }
 
 .product_container{
+  padding-top:50px;
+  padding-right:-50px;
   width:400px;
-  height:60px;
-  float:right;
-  padding-top: 70px;
-  display:inline;
+  height:50px;
 }
 
 #backbutton {
@@ -242,7 +270,8 @@ body {
   width:200px;
   font-size: 25px;
   color:green;
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
   background-color: green;
   color: white;
   padding: 15px 32px;
@@ -292,7 +321,8 @@ a {
   margin:auto;
   margin-top:30px;
   margin-bottom: 30px;
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
 }
 
 .leaf_div p {
@@ -307,10 +337,12 @@ a {
   height:40px;
   text-align: center;
   margin-bottom: 20px;
+  cursor: pointer;
 }
 
 #om{
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
   text-align: center;
 }
 
@@ -361,7 +393,8 @@ a {
 
 /* Artiklar CSS */
 #artiklar{
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
   text-align: center;
 
 }
@@ -393,7 +426,8 @@ a {
 
 
 #artikeltext1{
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
   width:47%;
   text-align: left;
   padding: 15px 32px;
@@ -410,7 +444,8 @@ a {
 }
 
 #artikeltext2{
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
   width:47%;
   text-align: left;
   padding: 15px 32px;
@@ -424,7 +459,8 @@ a {
 
 
 #artikeltext3{
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
   width:47%;
   text-align: left;
   padding: 15px 32px;
@@ -455,7 +491,8 @@ text-align: center;
 }
 
 #artikeltext4{
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
   width:47%;
   text-align: left;
   padding: 15px 32px;
@@ -469,7 +506,8 @@ text-align: center;
 }
 
 #artikeltext5{
-  font-family: Lato, serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-style: thin;
   width:47%;
   text-align: left;
   padding: 15px 32px;
@@ -484,4 +522,37 @@ text-align: center;
 
 #artikeltext5 h3{
   text-align: center;
+}
+
+/* HÄR JOBBAR ENNY */
+
+@media only screen and (max-width: 1000px) {
+    #header {
+        height:180px;
+    }
+
+    #short_text {
+      margin-top: 100px;
+    }
+
+    #site_logo{
+      height:100px;
+      margin-top:35px;
+    }
+
+    #about_us{
+      height:45%;
+      width:200px;
+      font-size: 180%;
+      padding-top: 40px;
+      margin-top: 30px;
+    }
+
+    #compare_button{
+      height:45%;
+      width:200px;
+      font-size: 180%;
+      padding-top: 40px;
+      margin-top: 30px;
+    }
 }
