@@ -105,7 +105,7 @@ body {
 
 
 #trad {
-  margin-top: -100px;
+  margin-top:20px;
   margin-bottom: 30px;
   height:400px;
   text-align: center;
@@ -559,5 +559,18 @@ text-align: center;
 
     .big_logo{
       margin-top:220px;
+    }
+
+    #artiklar{
+      margin-top: 50px;
+    }
+
+    #betyg_rubrik{
+      margin-top:70px;
+      margin-bottom: -100px;
+    }
+
+    #om {
+      padding-top: 100px;
     }
 }
