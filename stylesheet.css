@@ -237,11 +237,20 @@ body {
   font-style: thin;
 }
 
-.rankning_bild{
-  height:60px;
+#left-rank {
   float:left;
   padding-top: 70px;
-  display:inline;
+  display:inline-block;
+}
+
+#right-rank {
+  float:right;
+  padding-top: 70px;
+  display:inline-block;
+}
+
+.rankning_bild{
+  height:60px;
 }
 
 .products{
@@ -250,11 +259,10 @@ body {
 }
 
 .product_container{
+  padding-top:50px;
+  padding-right:-50px;
   width:400px;
-  height:60px;
-  float:right;
-  padding-top: 70px;
-  display:inline;
+  height:50px;
 }
 
 #backbutton {
