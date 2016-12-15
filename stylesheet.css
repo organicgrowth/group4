@@ -123,6 +123,12 @@ body {
   text-align: center;
 }
 
+.certification_logos:hover {
+
+  text-decoration: underline;
+
+}
+
 .small_logo{
   height:92%;
   margin:auto;
