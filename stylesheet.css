@@ -12,7 +12,7 @@ body {
   margin-left: -9px;
   position:fixed;
   font-family: 'Josefin Sans', sans-serif;
-  font-style: thin italic;
+
 }
 
 #site_logo{
@@ -35,7 +35,7 @@ body {
   text-align: center;
   padding-top:15px;
   font-family: 'Josefin Sans', sans-serif;
-  font-style: thin italic;
+  font-style: light;
 }
 
 #compare_button {
@@ -79,6 +79,7 @@ body {
   display: inline-block;
   font-family: 'Josefin Sans', sans-serif;
   font-style: thin;
+  font-weight: 100;
 }
 
 #headline_h1{
@@ -118,7 +119,7 @@ body {
   padding-bottom:60px;
   display:inline-block;
   font-family: 'Josefin Sans', sans-serif;
-  font-style: thin italic;
+  font-style: thin;
   text-align: center;
 }
 
@@ -175,7 +176,7 @@ body {
 
 .HI{
   font-family: 'Josefin Sans', sans-serif;
-  font-style: thin italic;
+  font-weight: 100;
   text-align: center;
   padding-top: 80px;
 }
